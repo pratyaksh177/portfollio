@@ -1,6 +1,5 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { FaArrowUp } from "react-icons/fa";
-import Img from "./../Img/Screenshot from 2023-10-13 09-23-24.png";
 const Project = ({ myContent }) => {
   const [activeHoverEffect, setActiveHoverEffect] = useState(false);
   return (

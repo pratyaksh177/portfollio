@@ -1,7 +1,6 @@
 import { TbBrandCpp } from "react-icons/tb";
 import { SiMongodb } from "react-icons/si";
 import { FaSquareGit } from "react-icons/fa6";
-import { BiLogoTailwindCss } from "react-icons/bi";
 import { FaNodeJs } from "react-icons/fa";
 import { FaReact } from "react-icons/fa";
 import { SiExpress } from "react-icons/si";
