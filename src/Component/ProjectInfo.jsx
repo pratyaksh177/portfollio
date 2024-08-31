@@ -34,7 +34,7 @@ const ProjectInfo = [
         name: "Open Source Contribution",
         text: " Contributed to the Blender open-source project by addressing and resolving a ”good first issue” in the codebase. This contribution involved understanding Blender’s code structure, implementing a solution in C++, and collaborating with the community to ensure the contribution met project standards.",
         techstack: [ "Cpp" ],
-        link : "",
+        link : "https://projects.blender.org/blender/blender/pulls/105193",
         gitHub: ""       
 
 
@@ -57,7 +57,7 @@ const ProjectInfo = [
         name: "passbook",
         text: "I made this within 5 hour and submitted to my mentor.This Mini Project is a great use of react that include authentication and many other features",
         techstack: [ "React", "Mongodb", "Authentication", "HTML"],
-        link : "https://projects.blender.org/blender/blender/pulls/105193",
+        link : "",
         gitHub: ""       
 
 
